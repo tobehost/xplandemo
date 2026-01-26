@@ -3,5 +3,5 @@
     "symbol": "XPD",
     "description": "Demo token for the X-plan asset protection framework.",
     "decimals": 9,
-    "image": "https://raw.githubusercontent.com/yourname/repo/main/xpd-icon.png"
+    "image": "https://github.com/tobehost/xplandemo/ERC20/metadata/xpd-icon.png"
 }
